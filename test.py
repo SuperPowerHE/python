@@ -4,4 +4,3 @@ def hello():
 temp= hello()
 
 print(temp)
-print('test')
